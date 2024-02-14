@@ -1,2 +1,2 @@
 # python-winter2024
-This is the respository for class and tutotirla 
+This is the repository for class and tutorial
